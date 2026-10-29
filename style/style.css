@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: 'Angelica';
+    src: url(../fontes/angelica.ttf) format('truetype');/*,
+        url(../fontes/angelica.otf) format('opentype'); */
+    font-weight: normal;
+    font-style: normal;
+}
+
+.texto-um {
+    font-family: "Roboto";
+}
+
+.texto-dois {
+    font-family: "Montserrat";
+}
+
+.texto-tres {
+    font-family: 'Angelica';
+}
